@@ -30,10 +30,10 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-<!--  body { background: url(https://torokoid.github.io/koguchi/IMG_1866.JPG) repeat-y top center fixed;  background-size:contain; "} 
+<!--  body { background: url(https://torokoid.github.io/Chiang-Rai/140505_11.JPG) repeat-y top center fixed;  background-size:contain; "} 
 -->
 
-<!-- #wrap {background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat fixed}
+<!-- #wrap {background:url(https://torokoid.github.io/Chiang-Rai/140505_11.JPG) center/cover no-repeat fixed}
 -->
 
 #wrap {background:none} /*PC用の背景はオフ*/
@@ -46,13 +46,13 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Chiang-Rai/140505_11.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
 <!-- 
    body::before {
-  background:url('https://torokoid.github.io/koguchi/IMG_1867.JPG') no-repeat center top;
+  background:url('https://torokoid.github.io/Chiang-Rai/140505_11.JPG') no-repeat center top;
   background-size: 100% auto;
   display: block;
   position: fixed;
@@ -71,20 +71,26 @@ body::before {
    
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">20180713、宇都宮駅東口の夕焼け空</p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! Chiang-Rai !!!</marquee></span></h1>
+<p align="right">20140505、あしかがフラワーパーク</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2014年5月5日、あしかがフラワーパーク !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="IMG_1874.JPG" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="IMG_1869.JPG" class="preview"><img src="IMG_1869.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1870.JPG" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1871.JPG" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1872.JPG" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1867.JPG" class="preview"><img src="IMG_1867.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_01.JPG" class="preview"><img src="140505_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="140505_02.JPG" class="preview"><img src="140505_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_03.JPG" class="preview"><img src="140505_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_04.JPG" class="preview"><img src="140505_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_05.JPG" class="preview"><img src="140505_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_06.JPG" class="preview"><img src="140505_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_07.JPG" class="preview"><img src="140505_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_08.JPG" class="preview"><img src="140505_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_09.JPG" class="preview"><img src="140505_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_10.JPG" class="preview"><img src="140505_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_11.JPG" class="preview"><img src="140505_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_12.JPG" class="preview"><img src="140505_12.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -93,20 +99,15 @@ body::before {
 
 
 <br><br><br><br><br>	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年2月2日、桑原さん中国北京駐在、壮行会 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2013/5/3、はが、しばさくらこうえん、おおやいし !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="IMG_E0356.JPG" class="preview"><img src="IMG_E0356.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="IMG_E0357.JPG" class="preview"><img src="IMG_E0357.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0358.JPG" class="preview"><img src="IMG_E0358.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0359.JPG" class="preview"><img src="IMG_E0359.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0350.JPG" class="preview"><img src="IMG_E0350.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0351.JPG" class="preview"><img src="IMG_E0351.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0352.JPG" class="preview"><img src="IMG_E0352.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0353.JPG" class="preview"><img src="IMG_E0353.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0354.JPG" class="preview"><img src="IMG_E0354.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0355.JPG" class="preview"><img src="IMG_E0355.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_04.JPG" class="preview"><img src="130503_04.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="130503_01.JPG" class="preview"><img src="130503_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_02.JPG" class="preview"><img src="130503_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_03.JPG" class="preview"><img src="130503_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_05.JPG" class="preview"><img src="130503_05.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 </div>
 <br><br>
