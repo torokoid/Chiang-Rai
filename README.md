@@ -90,7 +90,7 @@ body::before {
 <a href="140505_09.JPG" class="preview"><img src="140505_09.JPG" alt="サンプル画像" width="180" /></a>
 <a href="140505_10.JPG" class="preview"><img src="140505_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="140505_11.JPG" class="preview"><img src="140505_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_12.JPG" class="preview"><img src="140505_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_12.jpg" class="preview"><img src="140505_12.jpg" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
