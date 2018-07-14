@@ -84,12 +84,12 @@ body::before {
 <a href="151018_04.JPG" class="preview"><img src="151018_04.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_02.JPG" class="preview"><img src="151018_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_03.JPG" class="preview"><img src="151018_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_06.JPG" class="preview"><img src="151018_06.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_07.JPG" class="preview"><img src="151018_07.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_08.JPG" class="preview"><img src="151018_08.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_09.JPG" class="preview"><img src="151018_09.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_10.JPG" class="preview"><img src="151018_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_11.JPG" class="preview"><img src="151018_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_06.JPG" class="preview"><img src="151018_06.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
