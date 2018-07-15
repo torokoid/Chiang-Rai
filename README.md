@@ -79,7 +79,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="151107_01.JPG" class="preview"><img src="151018_05.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="151107_01.JPG" class="preview"><img src="151107_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="151107_02.JPG" class="preview"><img src="151107_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_03.JPG" class="preview"><img src="151107_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_04.JPG" class="preview"><img src="151107_04.JPG" alt="サンプル画像" width="180" /></a>
@@ -87,9 +87,9 @@ body::before {
 <a href="151107_06.JPG" class="preview"><img src="151107_06.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_07.JPG" class="preview"><img src="151107_07.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_08.JPG" class="preview"><img src="151107_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_09.JPG" class="preview"><img src="151107_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_10.JPG" class="preview"><img src="151107_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_11.JPG" class="preview"><img src="151107_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_10.JPG" class="preview"><img src="151107_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_09.JPG" class="preview"><img src="151107_09.JPG" alt="サンプル画像" width="100" /></a>
 </div>
 
 <br><br>
