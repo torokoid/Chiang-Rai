@@ -75,6 +75,32 @@ body::before {
 <p align="right">20140505、あしかがフラワーパーク</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2016年5月29日、ロマンチック村 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<a href="160529_01.JPG" class="preview"><img src="160529_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="160529_02.JPG" class="preview"><img src="160529_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_03.JPG" class="preview"><img src="160529_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_04.JPG" class="preview"><img src="160529_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_06.JPG" class="preview"><img src="160529_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_07.JPG" class="preview"><img src="160529_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_08.JPG" class="preview"><img src="160529_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_09.JPG" class="preview"><img src="160529_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_10.JPG" class="preview"><img src="160529_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_11.JPG" class="preview"><img src="160529_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_12.JPG" class="preview"><img src="160529_12.JPG" alt="サンプル画像" width="100" /></a>
+<a href="160529_13.JPG" class="preview"><img src="160529_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_14.JPG" class="preview"><img src="160529_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_05.JPG" class="preview"><img src="160529_05.JPG" alt="サンプル画像" width="100" /></a>
+</div>
+
+<br><br>
+
+
+
+
+<br><br><br><br><br>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月7日、日光 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
