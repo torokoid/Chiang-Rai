@@ -171,7 +171,7 @@ body::before {
 
 
 <br><br><br><br><br>	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2013/5/3、はが、しばさくらこうえん、おおやいし !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2013/5/3、はが、しばざくら公園、大谷石 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
