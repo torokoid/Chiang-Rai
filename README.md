@@ -89,7 +89,7 @@ body::before {
 <a href="160529_09.JPG" class="preview"><img src="160529_09.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_10.JPG" class="preview"><img src="160529_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_11.JPG" class="preview"><img src="160529_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_12.JPG" class="preview"><img src="160529_12.JPG" alt="サンプル画像" width="100" /></a>
+<a href="160529_12.JPG" class="preview"><img src="160529_12.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_13.JPG" class="preview"><img src="160529_13.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_14.JPG" class="preview"><img src="160529_14.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_05.JPG" class="preview"><img src="160529_05.JPG" alt="サンプル画像" width="100" /></a>
