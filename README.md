@@ -227,13 +227,14 @@ body::before {
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br>	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2013/5/3、はが、しばざくら公園、大谷石 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! Chiang Rai !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="130503_04.JPG" class="preview"><img src="130503_04.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="130503_01.JPG" class="preview"><img src="130503_01.JPG" alt="サンプル画像" width="180" /></a>
-<a href="130503_02.JPG" class="preview"><img src="130503_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No01.JPG" class="preview"><img src="No01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="No02.JPG" class="preview"><img src="No02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No03.JPG" class="preview"><img src="No03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No04.JPG" class="preview"><img src="No04.JPG" alt="サンプル画像" width="180" /></a>
 
 </div>
   </body>
