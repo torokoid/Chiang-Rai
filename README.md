@@ -237,7 +237,10 @@ body::before {
 <a href="No04.jpg" class="preview"><img src="No04.jpg" alt="サンプル画像" width="180" /></a>
 <a href="No05.JPG" class="preview"><img src="No05.JPG" alt="サンプル画像" width="180" /></a>
 <a href="No06.JPG" class="preview"><img src="No06.JPG" alt="サンプル画像" width="180" /></a>
-	
+<a href="No08.jpg" class="preview"><img src="No08.jpg" alt="サンプル画像" width="180" /></a>
+<a href="No09.jpg" class="preview"><img src="No09.jpg" alt="サンプル画像" width="180" /></a>
+<a href="No07.jpg" class="preview"><img src="No07.jpg" alt="サンプル画像" width="1800" /></a>
+		
 </div>
   </body>
 
