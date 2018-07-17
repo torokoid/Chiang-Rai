@@ -242,9 +242,7 @@ body::before {
 <a href="No07.jpg" class="preview"><img src="No07.jpg" alt="サンプル画像" width="1800" /></a>
 		
 </div>
-  </body>
 
-</html>
 <br><br>
 
 <!-- フッタ -->
