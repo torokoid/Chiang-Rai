@@ -57,7 +57,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年5月2日、富士しばさくら祭り !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="170502_01.JPG" class="preview"><img src="170502_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="170502_02.JPG" class="preview"><img src="170502_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="170502_03.JPG" class="preview"><img src="170502_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -80,7 +80,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年4月9日、かしの森公園、さくら !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="170409_01.JPG" class="preview"><img src="170409_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="170409_02.JPG" class="preview"><img src="170409_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="170409_03.JPG" class="preview"><img src="170409_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -99,7 +99,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2016年5月29日、ロマンチック村 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="160529_01.JPG" class="preview"><img src="160529_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="160529_02.JPG" class="preview"><img src="160529_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="160529_03.JPG" class="preview"><img src="160529_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -125,7 +125,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月7日、日光 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="151107_01.JPG" class="preview"><img src="151107_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="151107_02.JPG" class="preview"><img src="151107_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151107_03.JPG" class="preview"><img src="151107_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -148,7 +148,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年10月18日、ひたち海浜公園 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="151018_05.JPG" class="preview"><img src="151018_05.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="151018_01.JPG" class="preview"><img src="151018_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="151018_04.JPG" class="preview"><img src="151018_04.JPG" alt="サンプル画像" width="180" /></a>
@@ -171,7 +171,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2014年5月5日、あしかがフラワーパーク !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="140505_01.JPG" class="preview"><img src="140505_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="140505_02.JPG" class="preview"><img src="140505_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="140505_03.JPG" class="preview"><img src="140505_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -195,7 +195,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2013/5/3、はが、しばざくら公園、大谷石 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="130503_04.JPG" class="preview"><img src="130503_04.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="130503_01.JPG" class="preview"><img src="130503_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="130503_02.JPG" class="preview"><img src="130503_02.JPG" alt="サンプル画像" width="180" /></a>
