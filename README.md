@@ -54,8 +54,8 @@ body::before {
 <p align="right">2014/05/05、あしかがフラワーパーク</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h1><span class="yellow"><marquee behavior="alternate">
-<a href="https://torokoid.github.io/Nikko/">2018/08/14,Nikko !</a> </marquee></span></h1>
+<h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/Nikko/">2018/08/14,Nikko → Link !</a> </marquee></span></h2>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年5月2日、富士しばさくら祭り !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
