@@ -47,7 +47,9 @@ body::before {
 
 
 </style> 
-   
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! Chiang-Rai !!!</marquee></span></h1>
@@ -60,17 +62,17 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="170502_01.JPG" class="preview"><img src="170502_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="170502_02.JPG" class="preview"><img src="170502_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_03.JPG" class="preview"><img src="170502_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_04.JPG" class="preview"><img src="170502_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_06.JPG" class="preview"><img src="170502_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_07.JPG" class="preview"><img src="170502_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_08.JPG" class="preview"><img src="170502_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_09.JPG" class="preview"><img src="170502_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_10.JPG" class="preview"><img src="170502_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_11.JPG" class="preview"><img src="170502_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170502_12.JPG" class="preview"><img src="170502_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_01.JPG" data-lightbox="abc"><img src="170502_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="170502_02.JPG" data-lightbox="abc"><img src="170502_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_03.JPG" data-lightbox="abc"><img src="170502_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_04.JPG" data-lightbox="abc"><img src="170502_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_06.JPG" data-lightbox="abc"><img src="170502_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_07.JPG" data-lightbox="abc"><img src="170502_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_08.JPG" data-lightbox="abc"><img src="170502_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_09.JPG" data-lightbox="abc"><img src="170502_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_10.JPG" data-lightbox="abc"><img src="170502_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_11.JPG" data-lightbox="abc"><img src="170502_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170502_12.JPG" data-lightbox="abc"><img src="170502_12.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -83,13 +85,13 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="170409_01.JPG" class="preview"><img src="170409_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="170409_02.JPG" class="preview"><img src="170409_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170409_03.JPG" class="preview"><img src="170409_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170409_04.JPG" class="preview"><img src="170409_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170409_06.JPG" class="preview"><img src="170409_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170409_07.JPG" class="preview"><img src="170409_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="170409_08.JPG" class="preview"><img src="170409_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_01.JPG" data-lightbox="abc"><img src="170409_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="170409_02.JPG" data-lightbox="abc"><img src="170409_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_03.JPG" data-lightbox="abc"><img src="170409_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_04.JPG" data-lightbox="abc"><img src="170409_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_06.JPG" data-lightbox="abc"><img src="170409_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_07.JPG" data-lightbox="abc"><img src="170409_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="170409_08.JPG" data-lightbox="abc"><img src="170409_08.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -102,20 +104,20 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="160529_01.JPG" class="preview"><img src="160529_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="160529_02.JPG" class="preview"><img src="160529_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_03.JPG" class="preview"><img src="160529_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_04.JPG" class="preview"><img src="160529_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_06.JPG" class="preview"><img src="160529_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_07.JPG" class="preview"><img src="160529_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_08.JPG" class="preview"><img src="160529_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_09.JPG" class="preview"><img src="160529_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_10.JPG" class="preview"><img src="160529_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_11.JPG" class="preview"><img src="160529_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_12.JPG" class="preview"><img src="160529_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_13.JPG" class="preview"><img src="160529_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_14.JPG" class="preview"><img src="160529_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="160529_05.JPG" class="preview"><img src="160529_05.JPG" alt="サンプル画像" width="100" /></a>
+<a href="160529_01.JPG" data-lightbox="abc"><img src="160529_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="160529_02.JPG" data-lightbox="abc"><img src="160529_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_03.JPG" data-lightbox="abc"><img src="160529_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_04.JPG" data-lightbox="abc"><img src="160529_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_06.JPG" data-lightbox="abc"><img src="160529_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_07.JPG" data-lightbox="abc"><img src="160529_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_08.JPG" data-lightbox="abc"><img src="160529_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_09.JPG" data-lightbox="abc"><img src="160529_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_10.JPG" data-lightbox="abc"><img src="160529_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_11.JPG" data-lightbox="abc"><img src="160529_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_12.JPG" data-lightbox="abc"><img src="160529_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_13.JPG" data-lightbox="abc"><img src="160529_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_14.JPG" data-lightbox="abc"><img src="160529_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="160529_05.JPG" data-lightbox="abc"><img src="160529_05.JPG" alt="サンプル画像" width="100" /></a>
 </div>
 
 <br><br>
@@ -128,17 +130,17 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="151107_01.JPG" class="preview"><img src="151107_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="151107_02.JPG" class="preview"><img src="151107_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_03.JPG" class="preview"><img src="151107_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_04.JPG" class="preview"><img src="151107_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_05.JPG" class="preview"><img src="151107_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_06.JPG" class="preview"><img src="151107_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_07.JPG" class="preview"><img src="151107_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_08.JPG" class="preview"><img src="151107_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_11.JPG" class="preview"><img src="151107_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_10.JPG" class="preview"><img src="151107_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151107_09.JPG" class="preview"><img src="151107_09.JPG" alt="サンプル画像" width="100" /></a>
+<a href="151107_01.JPG" data-lightbox="abc"><img src="151107_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="151107_02.JPG" data-lightbox="abc"><img src="151107_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_03.JPG" data-lightbox="abc"><img src="151107_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_04.JPG" data-lightbox="abc"><img src="151107_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_05.JPG" data-lightbox="abc"><img src="151107_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_06.JPG" data-lightbox="abc"><img src="151107_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_07.JPG" data-lightbox="abc"><img src="151107_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_08.JPG" data-lightbox="abc"><img src="151107_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_11.JPG" data-lightbox="abc"><img src="151107_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_10.JPG" data-lightbox="abc"><img src="151107_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151107_09.JPG" data-lightbox="abc"><img src="151107_09.JPG" alt="サンプル画像" width="100" /></a>
 </div>
 
 <br><br>
@@ -151,17 +153,17 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="151018_05.JPG" class="preview"><img src="151018_05.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="151018_01.JPG" class="preview"><img src="151018_01.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_04.JPG" class="preview"><img src="151018_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_02.JPG" class="preview"><img src="151018_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_03.JPG" class="preview"><img src="151018_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_07.JPG" class="preview"><img src="151018_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_08.JPG" class="preview"><img src="151018_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_09.JPG" class="preview"><img src="151018_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_10.JPG" class="preview"><img src="151018_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_11.JPG" class="preview"><img src="151018_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="151018_06.JPG" class="preview"><img src="151018_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_05.JPG" data-lightbox="abc"><img src="151018_05.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="151018_01.JPG" data-lightbox="abc"><img src="151018_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_04.JPG" data-lightbox="abc"><img src="151018_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_02.JPG" data-lightbox="abc"><img src="151018_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_03.JPG" data-lightbox="abc"><img src="151018_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_07.JPG" data-lightbox="abc"><img src="151018_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_08.JPG" data-lightbox="abc"><img src="151018_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_09.JPG" data-lightbox="abc"><img src="151018_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_10.JPG" data-lightbox="abc"><img src="151018_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_11.JPG" data-lightbox="abc"><img src="151018_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="151018_06.JPG" data-lightbox="abc"><img src="151018_06.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -174,18 +176,18 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="140505_01.JPG" class="preview"><img src="140505_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="140505_02.JPG" class="preview"><img src="140505_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_03.JPG" class="preview"><img src="140505_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_04.JPG" class="preview"><img src="140505_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_05.JPG" class="preview"><img src="140505_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_06.JPG" class="preview"><img src="140505_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_07.JPG" class="preview"><img src="140505_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_08.JPG" class="preview"><img src="140505_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_09.JPG" class="preview"><img src="140505_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_10.JPG" class="preview"><img src="140505_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_11.JPG" class="preview"><img src="140505_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="140505_12.jpg" class="preview"><img src="140505_12.jpg" alt="サンプル画像" width="180" /></a>
+<a href="140505_01.JPG" data-lightbox="abc"><img src="140505_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="140505_02.JPG" data-lightbox="abc"><img src="140505_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_03.JPG" data-lightbox="abc"><img src="140505_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_04.JPG" data-lightbox="abc"><img src="140505_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_05.JPG" data-lightbox="abc"><img src="140505_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_06.JPG" data-lightbox="abc"><img src="140505_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_07.JPG" data-lightbox="abc"><img src="140505_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_08.JPG" data-lightbox="abc"><img src="140505_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_09.JPG" data-lightbox="abc"><img src="140505_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_10.JPG" data-lightbox="abc"><img src="140505_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_11.JPG" data-lightbox="abc"><img src="140505_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="140505_12.jpg" data-lightbox="abc"><img src="140505_12.jpg" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -198,11 +200,11 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="130503_04.JPG" class="preview"><img src="130503_04.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="130503_01.JPG" class="preview"><img src="130503_01.JPG" alt="サンプル画像" width="180" /></a>
-<a href="130503_02.JPG" class="preview"><img src="130503_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="130503_03.JPG" class="preview"><img src="130503_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="130503_05.JPG" class="preview"><img src="130503_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_04.JPG" data-lightbox="abc"><img src="130503_04.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="130503_01.JPG" data-lightbox="abc"><img src="130503_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_02.JPG" data-lightbox="abc"><img src="130503_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_03.JPG" data-lightbox="abc"><img src="130503_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130503_05.JPG" data-lightbox="abc"><img src="130503_05.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 </div>
 <br><br>
@@ -212,21 +214,22 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ click !</span></h3>
-<a href="No01.JPG" class="preview"><img src="No01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="No02.JPG" class="preview"><img src="No02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="No03.JPG" class="preview"><img src="No03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="No04.jpg" class="preview"><img src="No04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="No05.JPG" class="preview"><img src="No05.JPG" alt="サンプル画像" width="300" /></a>
-<a href="No06.JPG" class="preview"><img src="No06.JPG" alt="サンプル画像" width="360" /></a>
-<a href="No08.jpg" class="preview"><img src="No08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="No09.jpg" class="preview"><img src="No09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180730_No01.jpg" class="preview"><img src="20180730_No01.jpg" alt="サンプル画像" width="200" /></a>
-<a href="No07.jpg" class="preview"><img src="No07.jpg" alt="サンプル画像" width="1800" /></a>
+<a href="No01.JPG" data-lightbox="abc"><img src="No01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="No02.JPG" data-lightbox="abc"><img src="No02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No03.JPG" data-lightbox="abc"><img src="No03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="No04.jpg" data-lightbox="abc"><img src="No04.jpg" alt="サンプル画像" width="180" /></a>
+<a href="No05.JPG" data-lightbox="abc"><img src="No05.JPG" alt="サンプル画像" width="300" /></a>
+<a href="No06.JPG" data-lightbox="abc"><img src="No06.JPG" alt="サンプル画像" width="360" /></a>
+<a href="No08.jpg" data-lightbox="abc"><img src="No08.jpg" alt="サンプル画像" width="180" /></a>
+<a href="No09.jpg" data-lightbox="abc"><img src="No09.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20180730_No01.jpg" data-lightbox="abc"><img src="20180730_No01.jpg" alt="サンプル画像" width="200" /></a>
+<a href="No07.jpg" data-lightbox="abc"><img src="No07.jpg" alt="サンプル画像" width="1800" /></a>
 		
 </div>
 
 <br><br>
-
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2018/07/14 S.Hada</span>
