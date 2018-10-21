@@ -62,7 +62,7 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
 <a href="aki.jpg" data-lightbox="abc"><img src="aki.jpg" alt="サンプル画像" width="1800" /></a>
-<a href="181020_15.JPG" data-lightbox="abc"><img src="181020_15.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="181020_16.JPG" data-lightbox="abc"><img src="181020_16.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="181020_02.JPG" data-lightbox="abc"><img src="181020_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181020_03.JPG" data-lightbox="abc"><img src="181020_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181020_04.JPG" data-lightbox="abc"><img src="181020_04.JPG" alt="サンプル画像" width="180" /></a>
@@ -76,7 +76,7 @@ body::before {
 <a href="181020_13.JPG" data-lightbox="abc"><img src="181020_13.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181020_14.JPG" data-lightbox="abc"><img src="181020_14.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181020_01.JPG" data-lightbox="abc"><img src="181020_01.JPG" alt="サンプル画像" width="180" /></a>
-<a href="181020_16.JPG" data-lightbox="abc"><img src="181020_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181020_15.JPG" data-lightbox="abc"><img src="181020_15.JPG" alt="サンプル画像" width="180" /></a>
 <a href="181020_17.JPG" data-lightbox="abc"><img src="181020_17.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
