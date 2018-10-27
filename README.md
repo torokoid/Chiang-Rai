@@ -66,7 +66,7 @@ body::before {
 <a href="2018_10_26 (26).JPG" data-lightbox="abc"><img src="2018_10_26 (26).JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2018_10_26 (39).JPG" data-lightbox="abc"><img src="2018_10_26 (39).JPG" alt="サンプル画像" width="180" /></a>
 <a href="2018_10_26 (40).JPG" data-lightbox="abc"><img src="2018_10_26 (40).JPG" alt="サンプル画像" width="180" /></a>
-<a href="2018_10_26 (26).JPG" data-lightbox="abc"><img src="2018_10_26 (26).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (14).JPG" data-lightbox="abc"><img src="2018_10_26 (14).JPG" alt="サンプル画像" width="180" /></a>
 <a href="2018_10_26 (46).JPG" data-lightbox="abc"><img src="2018_10_26 (46).JPG" alt="サンプル画像" width="180" /></a>
 <a href="2018_10_26 (67).JPG" data-lightbox="abc"><img src="2018_10_26 (67).JPG" alt="サンプル画像" width="180" /></a>
 <a href="2018_10_26 (74).JPG" data-lightbox="abc"><img src="2018_10_26 (74).JPG" alt="サンプル画像" width="180" /></a>
