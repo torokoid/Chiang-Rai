@@ -57,7 +57,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
     
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月26日、Hitachi National park  kokia !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月26日、Hitachi National park  kochia !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
