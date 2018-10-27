@@ -119,6 +119,12 @@ body::before {
 <br><br><br><br><br>	
 
 <h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/hitachi_kochia/">2018/10/26,Nikko → Link !</a> </marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/mashiko_himawari/">2018/08/15,mashiko_himawari → Link !</a> </marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/hitachi_nemophila/">2018/04/20,hitachi_nemophila → Link !</a> </marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">
 <a href="https://torokoid.github.io/Nikko/">2018/08/14,Nikko → Link !</a> </marquee></span></h2>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年5月2日、富士しばさくら祭り !!!</marquee></span></h2>
 <div id="wrap">
