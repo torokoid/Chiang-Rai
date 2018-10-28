@@ -255,8 +255,8 @@ body::before {
 <a href="150620_09.JPG" data-lightbox="abc"><img src="150620_09.JPG" alt="サンプル画像" width="180" /></a>
 <a href="150620_10.JPG" data-lightbox="abc"><img src="150620_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="150620_11.JPG" data-lightbox="abc"><img src="150620_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="150620_12.jpg" data-lightbox="abc"><img src="150620_12.jpg" alt="サンプル画像" width="180" /></a>
-<a href="150620_13.jpg" data-lightbox="abc"><img src="150620_13.jpg" alt="サンプル画像" width="180" /></a>
+<a href="150620_12.JPG" data-lightbox="abc"><img src="150620_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150620_13.JPG" data-lightbox="abc"><img src="150620_13.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
