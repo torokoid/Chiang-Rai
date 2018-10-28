@@ -261,7 +261,25 @@ body::before {
 
 <br><br>
 
+<br><br><br><br><br>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2013年8月15日、鬼怒川バーベキュー !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="130815_06.JPG" data-lightbox="abc"><img src="130815_06.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="130815_02.JPG" data-lightbox="abc"><img src="130815_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_03.JPG" data-lightbox="abc"><img src="130815_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_01.JPG" data-lightbox="abc"><img src="130815_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_05.JPG" data-lightbox="abc"><img src="130815_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_04.JPG" data-lightbox="abc"><img src="130815_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_07.JPG" data-lightbox="abc"><img src="130815_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_08.JPG" data-lightbox="abc"><img src="130815_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_09.JPG" data-lightbox="abc"><img src="130815_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_10.JPG" data-lightbox="abc"><img src="130815_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="130815_11.JPG" data-lightbox="abc"><img src="130815_11.JPG" alt="サンプル画像" width="180" /></a>
+</div>
 
+<br><br>
 
 
 <br><br><br><br><br>	
