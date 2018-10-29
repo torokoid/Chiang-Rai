@@ -238,6 +238,28 @@ body::before {
 <br><br>
 
 
+<br><br><br><br><br>	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2015年8月23日、ましこ、ひまわり !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="150825_01.JPG" data-lightbox="abc"><img src="150825_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="150825_02.JPG" data-lightbox="abc"><img src="150825_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_03.JPG" data-lightbox="abc"><img src="150825_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_04.JPG" data-lightbox="abc"><img src="150825_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_06.JPG" data-lightbox="abc"><img src="150825_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_07.JPG" data-lightbox="abc"><img src="150825_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_08.JPG" data-lightbox="abc"><img src="150825_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_09.JPG" data-lightbox="abc"><img src="150825_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_10.JPG" data-lightbox="abc"><img src="150825_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_11.JPG" data-lightbox="abc"><img src="150825_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_12.JPG" data-lightbox="abc"><img src="150825_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="150825_13.JPG" data-lightbox="abc"><img src="150825_13.JPG" alt="サンプル画像" width="180" /></a>
+</div>
+
+<br><br>
+
+
 
 <br><br><br><br><br>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年6月20日、ツインリンクもてぎ !!!</marquee></span></h2>
