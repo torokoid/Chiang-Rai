@@ -56,6 +56,32 @@ body::before {
 <p align="right">2014/05/05、あしかがフラワーパーク</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年11月12日、ロマンチック村 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="181112_013.JPG" data-lightbox="abc"><img src="181112_013.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="181112_012.JPG" data-lightbox="abc"><img src="181112_012.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="181112_011.JPG" data-lightbox="abc"><img src="181112_011.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="181112_010.JPG" data-lightbox="abc"><img src="181112_010.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_009.JPG" data-lightbox="abc"><img src="181112_009.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_008.JPG" data-lightbox="abc"><img src="181112_008.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_007.JPG" data-lightbox="abc"><img src="181112_007.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_006.JPG" data-lightbox="abc"><img src="181112_006.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_005.JPG" data-lightbox="abc"><img src="181112_005.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_004.JPG" data-lightbox="abc"><img src="181112_004.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_003.JPG" data-lightbox="abc"><img src="181112_003.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_002.JPG" data-lightbox="abc"><img src="181112_002.JPG" alt="サンプル画像" width="180" /></a>
+<a href="181112_001.JPG" data-lightbox="abc"><img src="181112_001.JPG" alt="サンプル画像" width="180" /></a>
+</div>
+
+<br><br>
+
+
+
+
+<br><br><br><br><br>	
     
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年10月26日、Hitachi National park  kochia !!!</marquee></span></h2>
 <div id="wrap">
