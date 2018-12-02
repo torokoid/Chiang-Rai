@@ -54,6 +54,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! Chiang-Rai !!!</marquee></span></h1>
 <p align="right">2014/05/05、あしかがフラワーパーク</p>
+<p align="right"> <img src="chiang-rai_qr.png" alt="アクセス用QRコード" width="100"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
