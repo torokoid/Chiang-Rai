@@ -388,7 +388,7 @@ body::before {
 <a href="No09.jpg" data-lightbox="abc"><img src="No09.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180730_No01.jpg" data-lightbox="abc"><img src="20180730_No01.jpg" alt="サンプル画像" width="200" /></a>
 <a href="No07.jpg" data-lightbox="abc"><img src="No07.jpg" alt="サンプル画像" width="1800" /></a>
-		
+<a href="S_29327372.jpg" data-lightbox="abc"><img src="S_29327372.jpg" alt="サンプル画像" width="1800" /></a>
 </div>
 
 <br><br>
