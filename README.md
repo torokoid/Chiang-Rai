@@ -295,7 +295,6 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
 <a href="20150622_06.JPG" data-lightbox="abc"><img src="20150622_06.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="20150622_02.JPG" data-lightbox="abc"><img src="20150622_02.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_03.JPG" data-lightbox="abc"><img src="20150622_03.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_04.JPG" data-lightbox="abc"><img src="20150622_04.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_05.JPG" data-lightbox="abc"><img src="20150622_05.JPG" alt="サンプル画像" width="200" /></a>
@@ -306,8 +305,9 @@ body::before {
 <a href="20150622_10.JPG" data-lightbox="abc"><img src="20150622_10.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_11.JPG" data-lightbox="abc"><img src="20150622_11.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_12.JPG" data-lightbox="abc"><img src="20150622_12.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20150622_13.JPG" data-lightbox="abc"><img src="20150622_13.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20150622_14.JPG" data-lightbox="abc"><img src="20150622_14.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20150622_02.JPG" data-lightbox="abc"><img src="20150622_02.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20150622_13.JPG" data-lightbox="abc"><img src="20150622_13.JPG" alt="サンプル画像" width="200" /></a>
 </div>
 
 <br><br>
