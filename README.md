@@ -61,6 +61,38 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">
 <a href="https://torokoid.github.io/rom181123/">2018/11/23,ロマンチック村 → Link !</a> </marquee></span></h2>
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年4月5日、鬼怒川河川敷公園 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="20190405_001.JPG" data-lightbox="abc"><img src="20190405_001.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190405_002.JPG" data-lightbox="abc"><img src="20190405_002.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_003.JPG" data-lightbox="abc"><img src="20190405_003.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_004.JPG" data-lightbox="abc"><img src="20190405_004.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_005.JPG" data-lightbox="abc"><img src="20190405_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_006.JPG" data-lightbox="abc"><img src="20190405_006.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_007.JPG" data-lightbox="abc"><img src="20190405_007.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_008.JPG" data-lightbox="abc"><img src="20190405_008.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_009.JPG" data-lightbox="abc"><img src="20190405_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_010.JPG" data-lightbox="abc"><img src="20190405_010.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_011.JPG" data-lightbox="abc"><img src="20190405_011.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_012.JPG" data-lightbox="abc"><img src="20190405_012.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_013.JPG" data-lightbox="abc"><img src="20190405_013.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_014.JPG" data-lightbox="abc"><img src="20190405_014.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_015.JPG" data-lightbox="abc"><img src="20190405_015.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_016.JPG" data-lightbox="abc"><img src="20190405_016.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_017.JPG" data-lightbox="abc"><img src="20190405_017.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_018.JPG" data-lightbox="abc"><img src="20190405_018.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190405_019.JPG" data-lightbox="abc"><img src="20190405_019.JPG" alt="サンプル画像" width="200" /></a>
+</div>
+
+<br><br>
+
+
+
+
+<br><br><br><br><br>	
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年11月12日、ロマンチック村 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
