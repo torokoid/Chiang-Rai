@@ -58,13 +58,10 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<h2><span class="yellow"><marquee behavior="alternate">
-<a href="https://torokoid.github.io/rom181123/">2018/11/23,ロマンチック村 → Link !</a> </marquee></span></h2>
 
 
 <h2><span class="yellow"><marquee behavior="alternate">
 <a href="https://yayaploy.github.io/suphattraland/">2019/04/07,suphattraland@Rayong → Link !</a> </marquee></span></h2>
-<br><br>
 
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年4月5日、鬼怒川河川敷公園 !!!</marquee></span></h2>
@@ -94,10 +91,11 @@ body::before {
 
 <br><br>
 
-
-
-
 <br><br><br><br><br>	
+
+<h2><span class="yellow"><marquee behavior="alternate">
+<a href="https://torokoid.github.io/rom181123/">2018/11/23,ロマンチック村 → Link !</a> </marquee></span></h2>
+
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年11月12日、ロマンチック村 !!!</marquee></span></h2>
 <div id="wrap">
