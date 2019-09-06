@@ -437,6 +437,11 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ click !</span></h3>
+<a href="20190906_001.jpg" data-lightbox="abc"><img src="20190906_001.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190906_002.jpg" data-lightbox="abc"><img src="20190906_002.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190906_003.jpg" data-lightbox="abc"><img src="20190906_003.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190906_004.jpg" data-lightbox="abc"><img src="20190906_004.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190906_005.jpg" data-lightbox="abc"><img src="20190906_005.jpg" alt="サンプル画像" width="800" /></a>
 <a href="No01.JPG" data-lightbox="abc"><img src="No01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="No02.JPG" data-lightbox="abc"><img src="No02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="No03.JPG" data-lightbox="abc"><img src="No03.JPG" alt="サンプル画像" width="180" /></a>
