@@ -58,7 +58,24 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年4月17日、Grandma's Happy birthday !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
+<a href="20200417_001.JPG" data-lightbox="abc"><img src="20200417_001.JPG" alt="サンプル画像" width="1200" /></a>
+<a href="20200417_002.JPG" data-lightbox="abc"><img src="20200417_002.JPG" alt="サンプル画像" width="1200" /></a>
+<a href="20200417_003.JPG" data-lightbox="abc"><img src="20200417_003.JPG" alt="サンプル画像" width="1200" /></a>
+<a href="20200417_004.JPG" data-lightbox="abc"><img src="20200417_004.JPG" alt="サンプル画像" width="1200" /></a>
+<a href="20200417_005.JPG" data-lightbox="abc"><img src="20200417_005.JPG" alt="サンプル画像" width="1200" /></a>
 
+</div>
+
+<br><br>
+
+
+
+
+<br><br><br><br><br>	   
 
 <h2><span class="yellow"><marquee behavior="alternate">
 <a href="https://yayaploy.github.io/suphattraland/">2019/04/07,suphattraland@Rayong → Link !</a> </marquee></span></h2>
