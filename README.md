@@ -62,12 +62,12 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>
-<a href="20200417_001.JPG" data-lightbox="abc"><img src="20200417_001.JPG" alt="サンプル画像" width="1200" /></a>
+<a href="https://youtu.be/vXifnwgKU0s" data-lightbox="abc"><img src="20200417_001.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_002.JPG" data-lightbox="abc"><img src="20200417_002.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_003.JPG" data-lightbox="abc"><img src="20200417_003.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_004.JPG" data-lightbox="abc"><img src="20200417_004.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_005.JPG" data-lightbox="abc"><img src="20200417_005.JPG" alt="サンプル画像" width="1200" /></a>
-https://youtu.be/vXifnwgKU0s
+
 
 </div>
 
