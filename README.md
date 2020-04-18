@@ -67,7 +67,7 @@ body::before {
 <a href="20200417_003.JPG" data-lightbox="abc"><img src="20200417_003.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_004.JPG" data-lightbox="abc"><img src="20200417_004.JPG" alt="サンプル画像" width="1200" /></a>
 <a href="20200417_005.JPG" data-lightbox="abc"><img src="20200417_005.JPG" alt="サンプル画像" width="1200" /></a>
-[![](https://img.youtube.com/vi/vXifnwgKU0s/0.jpg)](https://www.youtube.com/watch?v=vXifnwgKU0s)
+<iframe width="1200" height="675" src="https://www.youtube.com/embed/vXifnwgKU0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
