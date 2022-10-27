@@ -58,6 +58,27 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2022年10月27日、Chiangrai !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<a href="20221027_001.JPG" data-lightbox="abc"><img src="20221027_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_002.JPG" data-lightbox="abc"><img src="20221027_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_003.JPG" data-lightbox="abc"><img src="20221027_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_004.JPG" data-lightbox="abc"><img src="20221027_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_005.JPG" data-lightbox="abc"><img src="20221027_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_006.JPG" data-lightbox="abc"><img src="20221027_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_007.JPG" data-lightbox="abc"><img src="20221027_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_008.JPG" data-lightbox="abc"><img src="20221027_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221027_009.JPG" data-lightbox="abc"><img src="20221027_009.JPG" alt="サンプル画像" width="900" /></a>
+
+</div>
+
+<br><br>
+
+<br><br><br><br><br>
+
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年4月17日、Grandma's Happy birthday !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
