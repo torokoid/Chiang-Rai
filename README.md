@@ -59,6 +59,22 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2022年11月3日、Goko !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<a href="20221103_001.jpg" data-lightbox="abc"><img src="20221103_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20221103_002.jpg" data-lightbox="abc"><img src="20221103_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20221103_003.jpg" data-lightbox="abc"><img src="20221103_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20221103_004.jpg" data-lightbox="abc"><img src="20221103_004.jpg" alt="サンプル画像" width="900" /></a>
+
+</div>
+
+<br><br>
+
+<br><br><br><br><br>
+
+
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2022年10月27日、Chiangrai !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
